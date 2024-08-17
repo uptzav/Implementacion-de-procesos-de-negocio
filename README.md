@@ -4,7 +4,7 @@
 A brief description of what this project does and who it's for
 
 
-## Authors
+## Integrantes
 ![App Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCoJJlMtUzly8X8Z4UzixnbM0sffYDzGHVdw&s)
 
 ZAVALA VENEGAS, LUIS ANGEL 	2023-355021 
